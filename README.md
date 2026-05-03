@@ -102,7 +102,7 @@ The raw data used shorthand codes for coffee and roast types. These were expande
 ---
 
 ## 📊 Dashboard
-![Dashboard Screenshot](Dashboard Screenshot.jpeg)
+![Dashboard Screenshot](DashboardScreenshot.jpeg)
 The dashboard was built using **Pivot Tables** and **Pivot Charts** derived from the enriched `Orders` sheet.
 
 ### Charts Included
